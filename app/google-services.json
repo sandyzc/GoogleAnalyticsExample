@@ -1,0 +1,38 @@
+{
+  "project_info": {
+    "project_number": "152709963341",
+    "project_id": "project-7248917794646328976"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:152709963341:android:b83963e4dffc0932",
+        "android_client_info": {
+          "package_name": "com.acadgild.android.googleanalyticsexample"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAaRhsI09TV2Ghw-N5xNpqj5eJRf8cOqpM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 2,
+          "analytics_property": {
+            "tracking_id": "UA-81373822-1"
+          }
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
